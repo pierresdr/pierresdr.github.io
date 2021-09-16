@@ -1,4 +1,4 @@
-I"d+<h1 id="markdown-support">Markdown Support</h1>
+I"+<h1 id="markdown-support">Markdown Support</h1>
 
 <p>As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the <a href="https://guides.github.com/features/mastering-markdown/">Markdown syntax</a>. Examples of these text formatting features can be seen below. You can find this post in the <code class="highlighter-rouge">_posts</code> directory.</p>
 
@@ -123,11 +123,11 @@
 
 <p>The <a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation">Schrödinger equation</a> is a partial differential equation that describes how the quantum state of a quantum system changes with time:</p>
 
-<script type="math/tex; mode=display">i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)</script>
+\[i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)\]
 
 <p><a href="https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange">Joseph-Louis Lagrange</a> was an Italian mathematician and astronomer who was responsible for the formulation of Lagrangian mechanics, which is a reformulation of Newtonian mechanics.</p>
 
-<script type="math/tex; mode=display">\frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j} \right ) =  \frac {\partial L}{\partial q_j}</script>
+\[\frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j} \right ) =  \frac {\partial L}{\partial q_j}\]
 
 <h2 id="tables">Tables</h2>
 
