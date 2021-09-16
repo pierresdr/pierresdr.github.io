@@ -7,12 +7,12 @@ disqus:
 google-ID: ''
 
 menu:
+- {name: 'Art', folder: 'pages', file: 'art.html'}
+- {name: 'Food', folder: 'pages', file: 'food.html'}
+- {name: 'Literature', folder: 'pages', file: 'literature.html'}
 - {name: 'Science', folder: 'pages', file: 'science.html'}
 - {name: 'Sport', folder: 'pages', file: 'sport.html'}
-- {name: 'Food', folder: 'pages', file: 'food.html'}
 - {name: 'Travel', folder: 'pages', file: 'travel.html'}
-- {name: 'Art', folder: 'pages', file: 'art.html'}
-- {name: 'Literature', folder: 'pages', file: 'literature.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 # - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
