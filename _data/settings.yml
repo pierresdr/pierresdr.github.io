@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Science', folder: 'pages', file: 'science.html'}
+- {name: 'Sport', folder: 'pages', file: 'sport.html'}
 - {name: 'Food', folder: 'pages', file: 'food.html'}
 - {name: 'Travel', folder: 'pages', file: 'travel.html'}
 - {name: 'Art', folder: 'pages', file: 'art.html'}
