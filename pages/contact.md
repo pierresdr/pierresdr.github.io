@@ -3,4 +3,4 @@ layout: misc
 title: Contact
 ---
 
-To come.
+Feel free to contact me on Twitter.
