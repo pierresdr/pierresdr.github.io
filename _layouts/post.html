@@ -28,6 +28,7 @@ layout: default
   {% if page.image %}
     <div class="featured-image">
       <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+      <figcaption style="color:grey;font-size:0.8em;text-align: center;">{{page.imagecaption}}</figcaption>
     </div>
   {% endif %}
 
@@ -58,7 +59,7 @@ layout: default
                   <div class="related-thumbnail">
                     {% if mypost.image %}
                       <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
-                      <figcaption>mypost.imagecaption</figcaption>
+                      <!-- <figcaption>mypost.imagecaption</figcaption> -->
                     {% endif %}
                   </div>
                   <div class="related-title">
