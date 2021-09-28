@@ -26,8 +26,10 @@ layout: default
   </span>
 
   {% if page.image %}
+    <!-- <div class="featured-image" style="background-image:url({{ site.github.url }}/assets/img/{{ page.image }})"> -->
     <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+      <img src="{{ site.github.url }}/assets/img/{{ page.image }}" >
+      <!-- <img style="max-width: 100%; max-height:100%; object-fit: contain" src="{{ site.github.url }}/assets/img/{{ page.image }}" > -->
       <figcaption style="color:grey;font-size:0.8em;text-align: center;">{{page.imagecaption}}</figcaption>
     </div>
   {% endif %}

@@ -5,6 +5,9 @@ paginate:            5
 
 # Build settings
 markdown:            kramdown
+kramdown:
+  parse_block_html: true
+  # number_sections: TRUE
 highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
@@ -14,9 +17,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Blog"
+title:		           "Serge Morris"
 description:	       ""
-author:              "Pierre Sdr"
+author:              "Serge Morris"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
